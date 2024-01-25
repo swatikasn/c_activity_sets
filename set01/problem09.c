@@ -52,4 +52,5 @@ void output(float n, float sqrroot)
     {
         printf("Square root of %.2f is approximately %.4f\n", n, sqrroot);
     }
+    
 }
