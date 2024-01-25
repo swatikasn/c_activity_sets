@@ -18,4 +18,4 @@ Reading symbols from a.out...
 (gdb) b 5
 Breakpoint 1 at 0x1151: file problem01.c, line 5.
 (gdb) Quit
-(gdb) `
+(gdb) 
