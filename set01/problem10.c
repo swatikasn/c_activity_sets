@@ -35,13 +35,13 @@ int stringcompare(char *string1, char *string2) {
         i++;
     }
 
-    
     if (string1[i] == '\0' && string2[i] == '\0') {
         return 0; 
     } else if (string1[i] == '\0') {
         return -1; 
     } else {
         return 1; 
+    }
 }
 
 void output(char *string1, char *string2, int result) {

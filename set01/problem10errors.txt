@@ -1,0 +1,13 @@
+Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set01/problem10.c -o /home/user/csecondsem/c_activity_sets-1/set01/output/problem10 
+
+/home/user/csecondsem/c_activity_sets-1/set01/problem10.c: In function ‘stringcompare’:
+/home/user/csecondsem/c_activity_sets-1/set01/problem10.c:55:1: error: expected declaration or statement at end of input
+   55 | }
+      | ^
+At top level:
+/home/user/csecondsem/c_activity_sets-1/set01/problem10.c:47:6: warning: ‘output’ defined but not used [-Wunused-function]
+   47 | void output(char *string1, char *string2, int result) {
+      |      ^~~~~~
+
+ *  The terminal process "gcc '-Wall', '-Wextra', '-g3', '/home/user/csecondsem/c_activity_sets-1/set01/problem10.c', '-o', '/home/user/csecondsem/c_activity_sets-1/set01/output/problem10'" failed to launch (exit code: 1). 
+ *  Terminal will be reused by tasks, press any key to close it. 
