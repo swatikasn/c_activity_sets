@@ -12,10 +12,7 @@ Find the GDB manual and other documentation resources online at:
     <http://www.gnu.org/software/gdb/documentation/>.
 
 For help, type "help".
---Type <RET> for more, q to quit, c to continue without paging--
 Type "apropos word" to search for commands related to "word"...
 Reading symbols from a.out...
-(gdb) b 5
-Breakpoint 1 at 0x1151: file problem01.c, line 5.
 (gdb) Quit
 (gdb) 

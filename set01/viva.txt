@@ -1,0 +1,31 @@
+whta is a #?
+lines that should be processed  by the pre processor.
+
+what is a pre processor?
+Preprocessors are programs that process the source code before compilation. 
+
+what is a compiler?
+A compliler converts c source code to an executable file.
+
+what is a gcc?
+Its a compiler used to convert c source code to an executable file.
+
+what is #include<stdio.h>?
+#include<stdio.h> is a header file containing function prototype.
+
+#include is a preprocessor that is used for file inclusion in c programming.
+
+what is preprocessor directive?
+lines of the source file where the first line starts with a # .
+
+what does the #include<stdio.h> do?
+  It includes the standard input-output header file (stdio. h), which contains essential functions like printf() , scanf() , and many others.
+ 
+what is a fuction prototype?
+a function prototype consists of return type ,function name and list of arguments.
+
+usedby compiler to check if function call is passing right number of parameter , right type of parameter and return value is assigned to the right type of variable.
+
+what is /n 
+it is a escape sequence .
+  

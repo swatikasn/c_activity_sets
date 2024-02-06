@@ -63,7 +63,7 @@ The sum of 1 and 2 is 3
 
 ***Function Declarations***
 
-```c
+
 int input();
 int compare(int a, int b, int c);
 void output(int a, int b, int c, int largest);
