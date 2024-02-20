@@ -26,6 +26,7 @@ void input(float *base, float *height) {
     scanf("%f", height);
 }
 
+<<<<<<< HEAD
 void find_area(float base, float height, float *area) 
 {
     *area = 0.5 * base * height;
@@ -37,3 +38,14 @@ void output(float base, float height, float area)
     printf("Height: %.2f\n", height);
     printf("Area: %.2f\n", area);
  }
+=======
+void find_area(float base, float height, float *area) {
+    *area = 0.5 * base * height;
+}
+
+void output(float base, float height, float area) {
+    printf("Base: %.2f\n", base);
+    printf("Height: %.2f\n", height);
+    printf("Area: %.2f\n", area);
+}
+>>>>>>> f28d3dd687e0b7a31773fce8f4304b86b3f77610
