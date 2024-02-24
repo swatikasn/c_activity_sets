@@ -1,1 +1,22 @@
-d
+
+Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem04.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem04 
+
+ *  Terminal will be reused by tasks, press any key to close it. 
+
+ *  Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem04.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem04 
+
+ *  Terminal will be reused by tasks, press any key to close it. 
+
+ *  Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem04.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem04 
+
+/home/user/csecondsem/c_activity_sets-1/set02/problem04.c: In function ‘sum_composite_numbers’:
+/home/user/csecondsem/c_activity_sets-1/set02/problem04.c:46:31: error: expected ‘)’ before ‘{’ token
+   46 |         if (is_composite(a[i]) {
+      |            ~                  ^~
+      |                               )
+/home/user/csecondsem/c_activity_sets-1/set02/problem04.c:49:5: error: expected expression before ‘}’ token
+   49 |     }
+      |     ^
+
+ *  The terminal process "gcc '-Wall', '-Wextra', '-g3', '/home/user/csecondsem/c_activity_sets-1/set02/problem04.c', '-o', '/home/user/csecondsem/c_activity_sets-1/set02/output/problem04'" failed to launch (exit code: 1). 
+ *  Terminal will be reused by tasks, press any key to close it. 
