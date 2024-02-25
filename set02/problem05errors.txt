@@ -1,0 +1,17 @@
+Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem05.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem05 
+
+/home/user/csecondsem/c_activity_sets-1/set02/problem05.c: In function ‘find_gcd’:
+/home/user/csecondsem/c_activity_sets-1/set02/problem05.c:34:13: warning: unused variable ‘temp’ [-Wunused-variable]
+   34 |         int temp = b;
+      |             ^~~~
+ *  Terminal will be reused by tasks, press any key to close it. 
+
+ *  Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem05.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem05 
+
+/home/user/csecondsem/c_activity_sets-1/set02/problem05.c: In function ‘find_gcd’:
+/home/user/csecondsem/c_activity_sets-1/set02/problem05.c:34:13: error: expected identifier or ‘(’ before ‘=’ token
+   34 |         int = b;
+      |             ^
+
+ *  The terminal process "gcc '-Wall', '-Wextra', '-g3', '/home/user/csecondsem/c_activity_sets-1/set02/problem05.c', '-o', '/home/user/csecondsem/c_activity_sets-1/set02/output/problem05'" failed to launch (exit code: 1). 
+ *  Terminal will be reused by tasks, press any key to close it. 
