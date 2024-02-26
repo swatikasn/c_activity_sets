@@ -15,4 +15,4 @@ For help, type "help".
 --Type <RET> for more, q to quit, c to continue without paging--c
 Type "apropos word" to search for commands related to "word"...
 a.out: No such file or directory.
-(gdb) Quit
+(gdb) Quit.
