@@ -1,0 +1,14 @@
+Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem06.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem06 
+
+ *  Terminal will be reused by tasks, press any key to close it. 
+
+ *  Executing task: gcc -Wall -Wextra -g3 /home/user/csecondsem/c_activity_sets-1/set02/problem06.c -o /home/user/csecondsem/c_activity_sets-1/set02/output/problem06 
+
+/home/user/csecondsem/c_activity_sets-1/set02/problem06.c: In function ‘str_reverse’:
+/home/user/csecondsem/c_activity_sets-1/set02/problem06.c:30:20: error: expected ‘;’ before numeric constant
+   30 |     for (i = length 1, j = 0; i >= 0; i--, j++) {
+      |                    ^~
+      |                    ;
+
+ *  The terminal process "gcc '-Wall', '-Wextra', '-g3', '/home/user/csecondsem/c_activity_sets-1/set02/problem06.c', '-o', '/home/user/csecondsem/c_activity_sets-1/set02/output/problem06'" failed to launch (exit code: 1). 
+ *  Terminal will be reused by tasks, press any key to close it. 
