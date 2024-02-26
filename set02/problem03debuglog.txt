@@ -16,4 +16,4 @@ For help, type "help".
 Type "apropos word" to search for commands related to "word"...
 a.out: No such file or directory.
 (gdb) Quit
-(gdb) 
+(gdb) .
